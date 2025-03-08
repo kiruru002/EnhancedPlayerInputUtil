@@ -15,7 +15,7 @@ UE5/EnhancedPlayerInput を拡張するプラグイン
 ## 使い方
 
 Default Player Input Class をデフォルトの EnhancedPlayerInput から、プラグイン提供の EnhancedPlayerInputUtilClass に置き換えます  
-もし既に独自のクラス設定済みだった場合は、その基底クラスを EnhancedPlayerInput から EnhancedPlayerInputUtilClass に置き換えます  
+もし既に独自のクラスを設定済みだった場合は、その基底クラスを EnhancedPlayerInput から EnhancedPlayerInputUtilClass に置き換えます  
 以降は、 UEnhancedPlayerInputUtilBPFLib を通して機能を利用できます  
 
 ![a.png](./README_res/b.png)
