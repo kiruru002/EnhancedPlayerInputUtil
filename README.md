@@ -8,7 +8,7 @@ UE5/EnhancedPlayerInput を拡張するプラグイン
 
 ## 機能
 
-現在アクティブな InputMappingContext のリストを取得し、優先度順にソートし他リストを取得できます  
+現在アクティブな InputMappingContext のリストを取得し、優先度順にソートしたリストを取得できます  
 
 ![a.png](./README_res/a.png)
 
