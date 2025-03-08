@@ -1,6 +1,6 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
-#include "EnhancedPlayerInputUtil.h"
+#include "EnhancedPlayerInputUtilModule.h"
 
 #define LOCTEXT_NAMESPACE "FEnhancedPlayerInputUtilModule"
 
@@ -17,4 +17,4 @@ void FEnhancedPlayerInputUtilModule::ShutdownModule()
 
 #undef LOCTEXT_NAMESPACE
 	
-IMPLEMENT_MODULE(FEnhancedPlayerInputUtilModule, EnhancedPlayerInputUtil)
+IMPLEMENT_MODULE(FEnhancedPlayerInputUtilModule, EnhancedPlayerInputUtilModule)
